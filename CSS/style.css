@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: #ffffff;
+    background-color: #000000;
  
 }
 
@@ -38,14 +38,14 @@ header {
 .menu > li > a{
     display: block;
     padding: 15px 70px;
-    color: #eac102;
+    color: #ffffff;
     font-family: 'Permanent Marker', cursive;
     text-decoration: none;
     font-size: 1.1rem;
 }
 
 .menu li a:hover{
-    color: #eac102;
+    color: #ffffff;
     transition: all .3s;
 }
 
@@ -97,7 +97,7 @@ header {
 }
 
 .portada h1 {
-    color:#0b6d60;
+    color:#ffffff;
     font-family: 'Permanent Marker', cursive;
     text-align: center;
     margin: 30px 50px;
