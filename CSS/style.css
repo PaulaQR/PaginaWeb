@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: #000000;
+    background-color: #ffffff;
  
 }
 
@@ -23,7 +23,7 @@ header {
 .navegation {
     width: 1000px;
     margin: 20px auto;
-    background: black;
+    background: #ecaa84;
 }
 
 .navegation ul{
@@ -39,7 +39,7 @@ header {
     display: block;
     padding: 15px 70px;
     color: #ffffff;
-    font-family: 'Permanent Marker', cursive;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-decoration: none;
     font-size: 1.1rem;
 }
@@ -66,14 +66,13 @@ header {
     visibility: hidden;
     opacity: 0;
     transition: opacity 1.5s;
-    margin: 10px 50px;
 }
 
 .submenu_1 li a{
     display:block;
     padding: 15px;
-    color: rgb(14, 2, 48);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(116, 116, 116);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-decoration: none;
 }
 
@@ -81,7 +80,7 @@ header {
     display:block;
     padding: 15px;   
     color:  rgb(14, 2, 48);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-decoration: none;
 }
 
@@ -97,8 +96,8 @@ header {
 }
 
 .portada h1 {
-    color:#ffffff;
-    font-family: 'Permanent Marker', cursive;
+    color:#4C7882;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     margin: 30px 50px;
     padding: 0 50px;
